@@ -1,0 +1,6 @@
+{
+  "name": "kickstertest",
+  "dependencies": {
+    "jquery": "~1.12.0"
+  }
+}
